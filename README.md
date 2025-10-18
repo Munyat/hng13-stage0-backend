@@ -181,13 +181,12 @@ You can test using:
 
 ## 🌐 Live Deployment
 
-> ⚠️ *Vercel and Render are not allowed in HNG13.*
+Deployed on: **AWS**
 
-Deployed on: **Railway / AWS / PXXL App / Heroku (choose one)**
-Example:
+Access the live endpoint at:
 
-```
-http://<your-ip-address>/me
+http://56.228.30.7:3000/me
+
 ```
 
 ---
